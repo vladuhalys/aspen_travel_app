@@ -9,6 +9,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  google_fonts: ^5.1.0
+  get: ^4.6.5
+  flutter_svg: ^2.0.7
 
 dev_dependencies:
   flutter_test:
@@ -17,3 +20,7 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets:
+    - assets/back/intro_back.jpg
+    - assets/back/land.jpg
+    - assets/icons/aspen.svg
