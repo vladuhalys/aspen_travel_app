@@ -13,6 +13,8 @@ dependencies:
   get: ^4.6.5
   flutter_svg: ^2.0.7
   cupertino_icons: ^1.0.5
+  dropdown_button2: ^2.3.9
+  card_swiper: ^3.0.1
 
 dev_dependencies:
   flutter_test:
@@ -29,3 +31,5 @@ flutter:
     - assets/icons/Home.svg
     - assets/icons/Profile.svg
     - assets/icons/Ticket.svg
+    - assets/icons/Location.svg
+    - assets/icons/Search.svg
